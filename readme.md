@@ -2,7 +2,7 @@
 
 ## 🔗 Links  
 - 🌐 [Official Website](https://dd-digitaldiary.co.in/)  
-- 📱 [Android App on Play Store](https://play.google.com/store/apps/details?id=com.dddigitaldiary.dddigitaldiary)
+- 📱 <a href="https://play.google.com/store/apps/details?id=com.dddigitaldiary.dddigitaldiary" rel="follow">Android App on Play Store</a>
 
 ---
 
